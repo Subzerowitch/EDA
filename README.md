@@ -1,4 +1,5 @@
 # EDA
+Dataset source: https://data.world/stellabigail/adidas-us-sales-datasets
 Dashboard in Tableau: https://public.tableau.com/app/profile/olena.rubanenko/viz/AdidasSales2020-2021/Dashboard1#1
 # Adidas US Sales Analysis
 
