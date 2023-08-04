@@ -1,6 +1,10 @@
 # EDA
-
+Dashboard in Tableau: https://public.tableau.com/app/profile/olena.rubanenko/viz/AdidasSales2020-2021/Dashboard1#1
 # Adidas US Sales Analysis
+
+## Dashboard Creation
+
+A dashboard is designed to present key findings and insights from the EDA in an interactive and visually appealing manner. The dashboard consists of multiple visualizations, each allowing users to explore and interact with the data dynamically. The visualizations on the dashboard provide an overview of sales trends, comparisons, and geographical insights.
 
 ## Introduction
 
